@@ -1,0 +1,5 @@
+"column name",width,datatype
+first_name,10,TEXT
+last_name,10,TEXT
+age,3,INTEGER
+gender,1,TEXT

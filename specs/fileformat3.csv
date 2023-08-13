@@ -1,0 +1,6 @@
+"column name",width,datatype
+name,10,TEXT
+smoker,1,BOOLEAN
+married,1,BOOLEAN
+age,3,INTEGER
+gender,1,TEXT

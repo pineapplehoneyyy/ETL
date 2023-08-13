@@ -1,0 +1,5 @@
+Amanda    Xu        25 F
+Alexa     James     15 F
+Steve     Jobs      56 M
+Mark      Zuckerberg38 M
+Jeff      Bezos     58 M
